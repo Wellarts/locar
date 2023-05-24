@@ -1,0 +1,20 @@
+.css_idcontaspagar_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idcontaspagar_grid_line {vertical-align: top;text-align: center;}
+.css_idfkcredorcontaspagar_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idfkcredorcontaspagar_grid_line {vertical-align: top;text-align: right;}
+.css_datavencimentocontaspagar_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_datavencimentocontaspagar_grid_line {vertical-align: top;text-align: center;}
+.css_datapagamentocontaspagar_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_datapagamentocontaspagar_grid_line {vertical-align: top;text-align: center;}
+.css_ordemparcelacontaspagar_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_ordemparcelacontaspagar_grid_line {vertical-align: top;text-align: center;}
+.css_valorcontaspagar_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_valorcontaspagar_grid_line {color:#990000;font-weight:bold;vertical-align: top;text-align: right;}
+.css_valorcontaspagar_tot_ger {text-align: right;}
+.css_quitadocontaspagar_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_quitadocontaspagar_grid_line {vertical-align: top;text-align: center;}
+.css_valorpagocontaspagar_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_valorpagocontaspagar_grid_line {color:#003300;font-weight:bold;vertical-align: top;text-align: right;}
+.css_valorpagocontaspagar_tot_ger {text-align: right;}
+.css_obscontaspagar_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_obscontaspagar_grid_line {vertical-align: top;text-align: right;}

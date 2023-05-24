@@ -1,0 +1,18 @@
+.css_lucro_label {font-size:18px;font-weight:bold;text-align:center;}
+.css_lucro_line {font-size:18px;color:#003300;font-weight:bold;}
+.css_lucro_obj {text-align:right;}
+.css_veiculo_label { }
+.css_veiculo_line { }
+.css_veiculo_obj { }
+.css_datainicio_label { }
+.css_datainicio_line { }
+.css_datainicio_obj { }
+.css_datafim_label { }
+.css_datafim_line { }
+.css_datafim_obj { }
+.css_custos_label {font-size:18px;font-weight:bold;text-align:center;}
+.css_custos_line {font-size:18px;color:#990000;font-weight:bold;}
+.css_custos_obj {text-align:right;}
+.css_aluguel_label {font-size:18px;font-weight:bold;text-align:center;}
+.css_aluguel_line {font-size:18px;color:#0033FF;font-weight:bold;}
+.css_aluguel_obj {text-align:right;}

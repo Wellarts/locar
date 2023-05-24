@@ -1,0 +1,28 @@
+.css_idlocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idlocacao_grid_line {vertical-align: top;text-align: center;}
+.css_idfkclientelocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idfkclientelocacao_grid_line {vertical-align: top;text-align: left;}
+.css_idfkveiculolocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idfkveiculolocacao_grid_line {vertical-align: top;text-align: left;}
+.css_datasaidalocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_datasaidalocacao_grid_line {vertical-align: top;text-align: center;}
+.css_horasaidalocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_horasaidalocacao_grid_line {vertical-align: top;text-align: center;}
+.css_dataretornolocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_dataretornolocacao_grid_line {vertical-align: top;text-align: center;}
+.css_horaretornolocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_horaretornolocacao_grid_line {vertical-align: top;text-align: center;}
+.css_kmtotal_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_kmtotal_grid_line {text-align: center;}
+.css_qtddiarias_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_qtddiarias_grid_line {vertical-align: top;text-align: center;}
+.css_valorliquidolocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_valorliquidolocacao_grid_line {font-weight:bold;vertical-align: top;text-align: center;}
+.css_valorliquidolocacao_tot_ger {text-align: center;}
+.css_fichalocacao_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_fichalocacao_grid_line {text-align: center;}
+.css_statuslocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_statuslocacao_grid_line {vertical-align: top;text-align: center;}
+.css_kmsaidalocacao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_kmsaidalocacao_grid_line {vertical-align: top;text-align: right;}
+.css_multasavarias_grid_line {text-align: center;}

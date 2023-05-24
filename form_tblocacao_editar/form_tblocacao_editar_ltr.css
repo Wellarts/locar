@@ -1,0 +1,42 @@
+.css_idlocacao_label {text-align:right;}
+.css_idlocacao_line {text-align:left;vertical-align:top;}
+.css_idlocacao_obj {text-align:left;}
+.css_idfkclientelocacao_label {text-align:right;}
+.css_idfkclientelocacao_line {text-align:left;}
+.css_idfkclientelocacao_obj {text-align:left;}
+.css_idfkveiculolocacao_label {text-align:right;}
+.css_idfkveiculolocacao_line {text-align:left;}
+.css_idfkveiculolocacao_obj {text-align:left;}
+.css_datasaidalocacao_label {text-align:right;}
+.css_datasaidalocacao_line { }
+.css_datasaidalocacao_obj { }
+.css_horasaidalocacao_label {text-align:right;}
+.css_horasaidalocacao_line { }
+.css_horasaidalocacao_obj { }
+.css_kmsaidalocacao_label {text-align:right;}
+.css_kmsaidalocacao_line {text-align:left;}
+.css_kmsaidalocacao_obj {text-align:left;}
+.css_dataretornolocacao_label {text-align:right;}
+.css_dataretornolocacao_line { }
+.css_dataretornolocacao_obj { }
+.css_horaretornolocacao_label {text-align:right;}
+.css_horaretornolocacao_line { }
+.css_horaretornolocacao_obj { }
+.css_kmretornolocacao_label {text-align:right;}
+.css_kmretornolocacao_line {text-align:left;}
+.css_kmretornolocacao_obj {text-align:left;}
+.css_qtddiarias_label {font-size:18px;text-align:right;}
+.css_qtddiarias_line {font-size:18px;color:#0033FF;font-weight:bold;text-align:left;vertical-align:bottom;}
+.css_qtddiarias_obj {text-align:center;}
+.css_descontolocacao_label {text-align:right;}
+.css_descontolocacao_line {color:#003300;font-weight:bold;}
+.css_descontolocacao_obj {text-align:left;}
+.css_valorliquidolocacao_label {font-size:18px;font-weight:bold;text-align:right;}
+.css_valorliquidolocacao_line {font-size:20px;color:#990000;font-weight:bold;text-align:left;}
+.css_valorliquidolocacao_obj {text-align:left;}
+.css_obslocacao_label {text-align:right;}
+.css_obslocacao_line { }
+.css_obslocacao_obj { }
+.css_multasavarias_label { }
+.css_multasavarias_line { }
+.css_multasavarias_obj { }
